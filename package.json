@@ -34,7 +34,7 @@
     "@baseswapfi/v2-sdk": "^1.0.26",
     "@baseswapfi/v3-sdk2": "^3.10.24",
     "@ethersproject/bignumber": "^5.7.0",
-    "@uniswap/default-token-list": "^11.2.0",
+    "@uniswap/default-token-list": "^11.13.0",
     "@uniswap/swap-router-contracts": "1.1.0",
     "@uniswap/token-lists": "^1.0.0-beta.33",
     "@uniswap/universal-router": "^1.4.3",
